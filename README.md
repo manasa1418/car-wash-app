@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ca9ee3631c3bfafa2f8e44645124835895ea1334
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,6 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
 >>>>>>> ca9ee36 (first commit)
 "# decentralized-app"
 "# decentralized-app"
@@ -150,4 +154,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> ca9ee36 (first commit)
 "# decentralized-app"
 >>>>>>> aa6983b29ec353d712f0c7d2848c4893f6bba4ac
+=======
+>>>>>>> ca9ee3631c3bfafa2f8e44645124835895ea1334
 "# decentralized-app"
